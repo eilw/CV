@@ -15,7 +15,7 @@ Although I am just in the beginning of my journey, I have a strong foundation ba
 I have worked with large companies across Financial Services and Utilities to identify growth opportunities, develop propositions, build investment cases and launch profitable new ventures that respond to the needs of their target customers.
 
 - I’m comfortable with the full range of proposition design methodology: workshop design and facilitation, customer insight (qual/quant), market and tech analysis, conceptualisation, (digital) prototyping, commercial modelling and operational requirements.
-- My four last major proposition projects have all been taken to or are in build stage, of which one has been launched([Barclaycard bPay](http://www.marketgravity.com/portfolio/barclaycard-bpay-making-everyday-payments-easy/).
+- My four last major proposition projects have all been taken to or are in build stage, of which one has been launched ([Barclaycard bPay](http://www.marketgravity.com/portfolio/barclaycard-bpay-making-everyday-payments-easy/)).
 - I've led the design of several new propositions, e.g: A new SME proposition for a leading Irish bank, the next gen banking proposition for a leading UK based bank and a new personal loan business in Scandinavia.
 
 #### Strategy and innovation consulting
@@ -27,17 +27,17 @@ I have been a consultant the last four years, completing >25 projects in global 
 
 ## Experience
 
-##### [Market Gravity](http://www.marketgravity.com) - (2014 to Present)
-- A niche proposition design consultancy 
-- Senior Growth and Innovation Consultant
+##### Market Gravity - (2014 to Present)
+- [A niche proposition design consultancy](http://www.marketgravity.com). 
+- Senior Growth and Innovation Consultant.
 
-##### [Arthur D. Little](http://www.adlittle.com/) - (2012 to 2014)   
-- A global management consultancy
-- From Business Analyst to Consultant
+##### Arthur D. Little - (2012 to 2014)   
+- [A global management consultancy](http://www.adlittle.com/). 
+- From Business Analyst to Consultant.
 - Covered topics such as growth strategy, assessing novel technology opportunities and their commercial impact, commercial due diligence, and innovation best practice. 
 
 ##### Telenor (NO), Statoil (NO), Syngenta Seeds (NL) - (2009, 2010, 2011)   
-- Graduation and summer internships  
+- Graduation and summer internships.  
 
 ## Education
 
