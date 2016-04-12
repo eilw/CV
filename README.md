@@ -22,8 +22,8 @@ I have worked with large companies across Financial Services and Utilities to id
 I have been a consultant the last four years, completing >25 projects in global teams across countries and industries, in the intersection of technology, innovation and strategy. 
 
 - **I learn fast**: A necessity in order to quickly get up to speed with how the industry works, what the client's issues are and what the best forward should be.
-- **I lead teams and workstreams**: Lots of experience with client facing projects, leading smaller teams and providing ongoing help to more junior team members.
-- **I stay positive**: Irrespective of the number of weeks on-site, long evenings, demanding clients and tough deadlines - life is to short not to still have fun, enjoy the project (the good parts), the people I work with and stay positive.  
+- **I lead teams and work streams**: Lots of experience with client facing projects, leading smaller teams and providing ongoing help to more junior team members.
+- **I stay positive**: Irrespective of the number of weeks on-site, long evenings, demanding clients and tough deadlines - life is to short not too still have fun, enjoy the project (the good parts), the people I work with and stay positive.  
 
 ## Experience
 
@@ -42,11 +42,11 @@ I have been a consultant the last four years, completing >25 projects in global 
 ## Education
 
 ##### Makers Academy (January 2016 to April 2016)
-An intensive software and web development bootcamp where I studied software craftmanship throughTest-Driven Development, pair-programming and Object-oriented design. Covered both Front-End and Back-End, and main technologies were Ruby/Rails, JavaScript/AngularJS, and for testing: RSpec/Jasmine/Karma/Protractor/Capybara.
+An intensive software and web development bootcamp where I studied software craftsmanship through Test-Driven Development, pair-programming and Object-oriented design. Covered both Front-End and Back-End, and main technologies were Ruby/Rails, JavaScript/AngularJS, and for testing: RSpec/Jasmine/Karma/Protractor/Capybara.
 
 **Main projects**:
-- [Love it or leave it](http://loveit-leaveit.herokuapp.com/): A webapp analysing the current sentiment of a search term through social media analysis. Pitched, designed and deployed in less than two weeks. Technologies used: AngularJS, Rails, Twitter REST API.
-- [Who’s round is it anyway?](https://github.com/eilw/whos-round-is-it-anyway): A new concept for sharing group expenses through a lightweight, mobilefriendly webapp. Designed and built in the Makerthon(3 days). Technologies used: AngularJS, Rails, PostgreSQL. 
+- [Love it or leave it](http://loveit-leaveit.herokuapp.com/): A web-app analysing the current sentiment of a search term through social media analysis. Pitched, designed and deployed in less than two weeks. Technologies used: AngularJS, Rails, Twitter REST API.
+- [Who’s round is it anyway?](https://github.com/eilw/whos-round-is-it-anyway): A new concept for sharing group expenses through a lightweight, mobile-friendly web-app. Designed and built in the Makerthon (3 days). Technologies used: AngularJS, Rails, PostgreSQL. 
 
 ##### Delft University of Technology, (the Netherlands) (2009 to 2011)
 - MSc. Strategic Product Design Engineering. Pass with Distinction (top 5%). 
