@@ -23,7 +23,7 @@ I have been a consultant the last four years, completing >25 projects in global 
 
 - **I learn fast**: A necessity in order to quickly get up to speed with how the industry works, what the client's issues are and what the best forward should be.
 - **I lead teams and work streams**: Lots of experience with client facing projects, leading smaller teams and providing ongoing help to more junior team members.
-- **I stay positive**: Irrespective of the number of weeks on-site, long evenings, demanding clients and tough deadlines - life is to short not too still have fun, enjoy the project (the good parts), the people I work with and stay positive.  
+- **I stay smiley**: Irrespective of the number of weeks on-site, long evenings, demanding clients and tough deadlines - life is to short not too still have fun, enjoy the project (the good parts) and the people I work with.  
 
 ## Experience
 
