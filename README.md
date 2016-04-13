@@ -4,9 +4,8 @@ I’m an experienced proposition designer and a junior developer, passionate abo
 ## Skills 
 
 #### Software/Web Development & Testing
-Although I am just in the beginning of my journey, I have a strong foundation based on best practice within XP, TDD and OO. Most importantly, I have an immense appetite to continue to improve my skills. Nothing is as gratifying as getting stuck with an issue, trying a number of ways to solve it, until the a-ha moments drop when I’m doing something else, and I finally get it to work.
+Although I am just in the beginning of my journey, I have a solid foundation based on best practice within XP, TDD and OO. Most importantly, I have an immense appetite to continue to improve my skills. Nothing is as gratifying as finally figuring out how to solve a problem that I have been stuck with, or better yet, when someone shows me how something can be done in a better way. 
 
-- I love figuring out how to solve the problem, or when someone shows me how something can be done in a better way. 
 - I’m passionate about and always do my best to build good quality, well tested and reusable code. Testing is core as it gives the confidence to continue to build.  
 - Main languages: Ruby and JavaScript.
 - Built apps with frameworks such as: Rails, AngularJS, Sinatra, and tested with RSpec, Capybara, Jasmine, Karma and Protractor. 
@@ -29,11 +28,11 @@ I have been a consultant the last four years, completing >25 projects in global 
 
 ##### Market Gravity - (2014 to Present)
 - [A niche proposition design consultancy](http://www.marketgravity.com). 
-- Senior Growth and Innovation Consultant.
+- •	Worked as a Senior Growth and Innovation Consultant.
 
 ##### Arthur D. Little - (2012 to 2014)   
 - [A global management consultancy](http://www.adlittle.com/). 
-- From Business Analyst to Consultant.
+- Worked as both Business Analyst and then Consultant.
 - Covered topics such as growth strategy, assessing novel technology opportunities and their commercial impact, commercial due diligence, and innovation best practice. 
 
 ##### Telenor (NO), Statoil (NO), Syngenta Seeds (NL) - (2009, 2010, 2011)   
